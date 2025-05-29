@@ -21,8 +21,4 @@ This is a simple Book Management API developed using .NET and Entity Framework. 
 - Creating GET and POST endpoints for managing books
 - API documentation and testing using Swagger and Postman
 
-##  Project Setup
-
-1. Clone the repository:
-   https://github.com/KhodbhayaDenisa18/Tatvasoft_Intership/tree/main/Day_3/BooksApi
 
